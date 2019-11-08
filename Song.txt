@@ -8,4 +8,7 @@ Shield by shield
 Side by side
 We're marching into destiny
 
-Add fro first step - branch
+Add for first step - branch
+
+
+Add for second step - branch
